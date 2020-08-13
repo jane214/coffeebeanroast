@@ -28,6 +28,12 @@ footer {
 	background-color: BlanchedAlmond;
 }
 
+#Comments{
+width:622px;
+text-align:center;
+
+}
+
 #fullpage { 
     background: #8c7165;
     color: white;
@@ -100,3 +106,9 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+
+
+
+
+
